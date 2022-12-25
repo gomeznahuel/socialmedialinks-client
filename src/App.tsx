@@ -44,8 +44,6 @@ const App = () => {
         </Box>
       </Container>
       }
-
-      <Loader />
     </>
   );
 };
